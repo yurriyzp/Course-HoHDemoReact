@@ -1,0 +1,43 @@
+.main {
+    display: -ms-flexbox;
+    display: flex;
+    
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   
+    height: 60vh;
+  }
+.map_cont{
+    height: 35vh;
+}
+body {
+    background-color: dodgerblue;
+    color: yellow;
+}  
+.btn-primary {
+    background-color: yellow;
+    color: black;
+}
+.jumbotron {
+    background-color: dodgerblue;
+    height:100px
+}
+.navbar-dark{
+    background-color: blue;
+    color:"white";
+}
+a {
+    color:yellow !important;
+    font-size: 20 !important
+    ;
+   
+}
+.navbar-nav li {
+    
+    padding: 5 ;
+    margin: 20 ;
+}
+
+
